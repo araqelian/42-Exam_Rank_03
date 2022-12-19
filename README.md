@@ -1,3 +1,34 @@
+# 📌 ft_printf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subject.en.txt
+<br>
+
+<p>
+Assignment name : &nbsp;&nbsp;ft_printf<br>
+Expected files : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft_printf.c<br>
+Allowed functions:&nbsp;&nbsp;&nbsp; malloc,&nbsp; free, &nbsp;write,&nbsp; va_start,&nbsp; va_arg,&nbsp; va_copy, &nbsp;va_end<br>
+_________________________________________________________________________________________________________________________________
+</p>
+
+Your function must be declared as follows:<br>
+int &nbsp;&nbsp;ft_printf(const &nbsp;char &nbsp;*, &nbsp;... );
+
+Write a function named <b>ft_printf</b> that will mimic the real printf but it will manage only the following conversions:<br>
+%s (string)<br> 
+%d (decimal) <br> 
+%x (lowercase hexademical)<br> <br> <br> 
+
+
+<b>Examples of the function output:</b><br>
+
+call: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft_printf("%s\n",&nbsp;&nbsp;&nbsp;"42 Yerevan\n"); <br>
+output:&nbsp;&nbsp;&nbsp;42&nbsp;Yerevan
+
+call: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft_printf("%d\n", &nbsp;&nbsp;&nbsp;42); <br>
+output: &nbsp;&nbsp;&nbsp;42
+
+call: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft_printf("%x\n",&nbsp;&nbsp;&nbsp;42); <br>
+output: &nbsp;&nbsp;&nbsp;2a
+<br><br><br><br><br><br><br><br>
+
 # 📌 get_next_line&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subject.en.txt
 <br>
 
