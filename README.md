@@ -1,4 +1,4 @@
-# 📌 ft_printf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subject.en.txt
+# 📌 ft_printf &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subject.en.txt
 <br>
 
 <p>
@@ -29,7 +29,7 @@ call: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft_printf("%x\n",&nb
 output: &nbsp;&nbsp;&nbsp;2a
 <br><br><br><br><br><br><br><br>
 
-# 📌 get_next_line&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subject.en.txt
+# 📌 get_next_line &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subject.en.txt
 <br>
 
 <p>
